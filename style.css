@@ -1,0 +1,33 @@
+.converter{
+/* background-color: rgb(26, 26, 59); */
+background: linear-gradient(to top right, rgb(101, 74, 221), rgba(28, 7, 107));
+margin-top: 10%;
+margin-left: 25%;
+height:15rem;
+border-radius: 5%;
+width:40%;
+}
+#result{
+background-color: white;
+margin: 6rem 5rem;
+width: 20% auto;
+position: absolute;
+
+border:  5px inset rgb(170, 163, 163);
+padding: 6px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#A-result{
+padding-left: 13px;
+}
+.mybtn{
+  margin-left: 22rem;
+  position: absolute;
+  margin-top: -3.3rem;
+  font-weight: bold;
+}
+#congrat{
+color: red;
+margin-left: 19rem;
+cursor: pointer;
+}
