@@ -31,3 +31,26 @@ color: red;
 margin-left: 19rem;
 cursor: pointer;
 }
+
+@media only screen and (max-width:387px){
+    .converter{
+        /* background-color: rgb(26, 26, 59); */
+       
+        margin-top: 10%;
+        margin-left: 0%;
+        height:15rem;
+        border-radius: 5%;
+        width:100%;
+        }
+
+        .mybtn{
+            margin-left: 3rem;
+            
+          }
+          #congrat{
+           text-align: center;
+            margin-left: 0rem;
+            padding: 5px;
+            }
+
+}

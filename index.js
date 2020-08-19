@@ -8,7 +8,7 @@ function fn1(){
     value.innerHTML = fahrenheit ;
     document.getElementById("congrat").innerHTML = "Congratulation!!" + " " + "You have successfully Calculate Celsius .";
 }
-fn1();
+// fn1();
 
 function fn2(){
     document.getElementById("A-result").innerHTML = "";
